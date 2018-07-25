@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="MoneyTextView">
+		<attr name="currency" format="string"/>
+		<attr name="show_currency" format="boolean"/>
+		<attr name="simply_amount" format="boolean"/>
+		<attr name="currency_at_end" format="boolean"/>
+		<attr name="abs_amount" format="boolean"/>
+	</declare-styleable>
+</resources>
